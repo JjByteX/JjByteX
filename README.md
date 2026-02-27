@@ -52,13 +52,9 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JjByteX&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=6&column=6" />
+<img src="https://github-readme-stats.vercel.app/api?username=JjByteX&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=JjByteX&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JjByteX&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=0d1117&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JjByteX&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=0d1117&hide_border=true&hide_title=true" />
 
 <br/>
 
