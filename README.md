@@ -41,5 +41,5 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JjByteX&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=00000000&hide_border=true&hide_title=true" />
 
 ```
-  "still debugging. still shipping."
+  "Not inactive. Most of the time, I commit locally."
 ```
