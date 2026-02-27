@@ -1,25 +1,12 @@
 <div align="center">
 
-```
-   ██╗     ██╗     ██████╗ ██╗   ██╗████████╗███████╗██╗  ██╗
-   ██║     ██║     ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔════╝╚██╗██╔╝
-   ██║     ██║     ██████╔╝ ╚████╔╝    ██║   █████╗   ╚███╔╝ 
-   ██║██   ██║     ██╔══██╗  ╚██╔╝     ██║   ██╔══╝   ██╔██╗ 
-   ╚██████╗███████╗██████╔╝   ██║      ██║   ███████╗██╔╝ ██╗
-    ╚═════╝╚══════╝╚═════╝    ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝
-```
-
-### `> JJ BASSIG // @JjByteX`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,00ff88&height=200&section=header&text=JjByteX&fontSize=90&fontColor=00ff88&fontAlignY=38&desc=JJ%20Bassig&descAlignY=60&descSize=22&descColor=ffffff&animation=twinkling" width="100%"/>
 
 *From Redstone circuits. Now creating real-world systems.*
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=JjByteX&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
-
 </div>
-
----
 
 ## `< ABOUT />`
 
@@ -33,30 +20,35 @@ I work across the full stack — from databases to desktop apps to the shell. I 
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,php,html,css&theme=dark" />
+</p>
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=dark" />
+</p>
 
 **Frameworks & Platforms**
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />
+</p>
 
 **Tools & Environment**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,fedora,debian&theme=dark" />
+</p>
+
+**AI Tools I Work With**
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
 ---
 
@@ -75,7 +67,7 @@ I work across the full stack — from databases to desktop apps to the shell. I 
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,00ff88,0d1117&height=100&section=footer" width="100%"/>
 
 <div align="center">
 
