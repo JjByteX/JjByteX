@@ -11,11 +11,11 @@
   jj bassig · @JjByteX
   From Redstone circuits. Now creating real-world systems.
 
-  os      Fedora · Debian · Windows
+  os      Windows · Fedora · Debian
   editor  VS Code · Visual Studio
   shell   bash / zsh
-  ai      Claude · ChatGPT · Gemini
-  uptime  since 2022
+  ai      Claude · Gemini · ChatGPT
+  uptime  since 2026
 ```
 
 <table>
