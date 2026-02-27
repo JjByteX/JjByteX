@@ -1,76 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,00ff88&height=200&section=header&text=JjByteX&fontSize=90&fontColor=00ff88&fontAlignY=38&desc=JJ%20Bassig&descAlignY=60&descSize=22&descColor=ffffff&animation=twinkling" width="100%"/>
-
-*From Redstone circuits. Now creating real-world systems.*
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,00ff41&height=180&section=header&text=JjByteX&fontSize=80&fontColor=00ff41&fontAlignY=40&fontFamily=Fira+Code&animation=twinkling&desc=JJ%20Bassig&descAlignY=62&descSize=18&descColor=8b949e" width="100%"/>
 
 </div>
 
-## `< ABOUT />`
-
-Hey, I'm **JJ** — a developer who went from obsessing over Minecraft Redstone logic gates to actually building systems that run in the real world. Still the same curiosity, just a different compiler.
-
-I work across the full stack — from databases to desktop apps to the shell. I vibe-code sometimes, I architect other times. Either way, something ships.
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  jj@bytex:~$ neofetch                                               │
+├──────────────────────────┬──────────────────────────────────────────┤
+│                          │                                          │
+│    ██╗     ██╗           │  user    : JJ Bassig (JjByteX)           │
+│    ██║     ██║           │  os      : Fedora / Debian / Windows 11  │
+│    ██║██╗  ██║           │  shell   : bash / zsh                    │
+│    ╚████╔╝ ██║           │  editor  : VS Code · Visual Studio       │
+│     ╚═══╝  ╚═╝           │  uptime  : since Oct 10, 2022            │
+│                          │                                          │
+│  From Redstone circuits. │  langs   : Java · Python · C++ · C#     │
+│  Now creating real-world │            PHP · HTML · CSS              │
+│  systems.                │  db      : PostgreSQL · MySQL · SQLite   │
+│                          │  stack   : .NET                          │
+│                          │  ai      : Claude · ChatGPT · Gemini     │
+│                          │                                          │
+└──────────────────────────┴──────────────────────────────────────────┘
+```
 
 ---
 
-## `< TECH STACK />`
+## `~/tech-stack`
 
 **Languages**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,php,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,php,html,css&theme=dark&perline=7" />
 </p>
 
 **Databases**
-
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=dark" />
 </p>
 
 **Frameworks & Platforms**
-
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />
 </p>
 
 **Tools & Environment**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,fedora,debian&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,fedora,debian,windows&theme=dark" />
 </p>
 
-**AI Tools I Work With**
-
+**AI I Work With**
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 </p>
 
 ---
 
-## `< GITHUB STATS />`
+## `~/github-stats`
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JjByteX&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JjByteX&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=JjByteX&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)
 
 </div>
 
-<div align="center">
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JjByteX&theme=chartreuse-dark&hide_border=true)
+```bash
+jj@bytex:~$ echo "Still debugging. Still shipping."
+Still debugging. Still shipping.
+jj@bytex:~$ █
+```
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,00ff88,0d1117&height=100&section=footer" width="100%"/>
-
-<div align="center">
-
-*`// Still debugging. Still shipping.`*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,00ff41,0d1117&height=100&section=footer" width="100%"/>
