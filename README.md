@@ -17,7 +17,6 @@
   ai      Claude · Gemini · ChatGPT
   uptime  since 2026
 ```
-
 <table>
 <tr>
 <td><code>langs</code></td>
