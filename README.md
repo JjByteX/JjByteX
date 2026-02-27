@@ -21,7 +21,7 @@
 <tr>
 <td><code>langs</code></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,php,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,php,html,css&theme=dark" />
 </td>
 </tr>
 <tr>
