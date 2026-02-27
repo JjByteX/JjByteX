@@ -32,7 +32,7 @@
 <tr>
 <td><code>tools</code></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=dotnet,git,vscode,visualstudio,debian,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,git,vscode,visualstudio&theme=dark" />
 </td>
 </tr>
 </table>
