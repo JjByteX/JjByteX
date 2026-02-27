@@ -21,29 +21,42 @@
   uptime  since 2022
 ```
 
-<div align="center">
-
-`langs`
-<br/>
-<img src="https://skillicons.dev/icons?i=java,cpp,cs,python,php,html,css&theme=dark" />
-
 <br/>
 
-`db · stack`
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,dotnet&theme=dark" />
+<table>
+<tr>
+<td><code>langs</code></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,php,html,css&theme=dark" />
+</td>
+</tr>
+<tr>
+<td><code>db</code></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=dark" />
+</td>
+</tr>
+<tr>
+<td><code>stack</code></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />
+</td>
+</tr>
+<tr>
+<td><code>tools</code></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,debian,windows&theme=dark" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-`tools · os`
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,debian,windows&theme=dark" />
+![streak](https://streak-stats.demolab.com?user=JjByteX&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=JjByteX&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true)
 
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=JjByteX&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=480"/>
-
-</div>
 
 ```
   "still debugging. still shipping."
