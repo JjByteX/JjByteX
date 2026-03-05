@@ -36,11 +36,13 @@
       <img src="https://skillicons.dev/icons?i=python&theme=dark" height="32" />
       <img src="https://skillicons.dev/icons?i=php&theme=dark" height="32" />
       <img src="https://skillicons.dev/icons?i=html&theme=dark" height="32" />
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" height="32" />
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" height="32" 
+        
   <strong>db</strong><br/>
       <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="32" />
       <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="32" />
       <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="32" />
+      
    <strong>tools</strong><br/>
       <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="32" />
       <img src="https://skillicons.dev/icons?i=git&theme=dark" height="32" />
