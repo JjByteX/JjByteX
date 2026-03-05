@@ -32,16 +32,20 @@
     <p>
       <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,php,html,css&theme=dark" />
     </p>
+<p><strong>db</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="32" />
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="32" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="32" />
+</p>
 
-    <p><strong>db</strong></p>
-    <p>
-      <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=dark" />
-    </p>
-
-    <p><strong>tools</strong></p>
-    <p>
-      <img src="https://skillicons.dev/icons?i=dotnet,git,vscode,visualstudio&theme=dark" />
-    </p>
+<p><strong>tools</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="32" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="32" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="32" />
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" height="32" />
+</p>
   </td>
 </tr>
 </table>
