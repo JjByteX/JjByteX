@@ -30,30 +30,30 @@
       <tr>
         <td align="left" width="60"><strong>langs</strong></td>
         <td>
-          <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="40" />
-          <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="40" />
-          <img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" />
-          <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" />
-          <img src="https://skillicons.dev/icons?i=php&theme=dark" height="40" />
-          <img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" />
-          <img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" />
+          <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="44" />
+          <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="44" />
+          <img src="https://skillicons.dev/icons?i=java&theme=dark" height="44" />
+          <img src="https://skillicons.dev/icons?i=python&theme=dark" height="44" />
+          <img src="https://skillicons.dev/icons?i=php&theme=dark" height="44" />
+          <img src="https://skillicons.dev/icons?i=html&theme=dark" height="44" />
+          <img src="https://skillicons.dev/icons?i=css&theme=dark" height="44" />
         </td>
       </tr>
       <tr>
         <td align="left"><strong>db</strong></td>
         <td>
-          <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" />
-          <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="40" />
-          <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" />
+          <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="44" />
+          <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="44" />
+          <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="44" />
         </td>
       </tr>
       <tr>
         <td align="left"><strong>tools</strong></td>
         <td>
-          <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="40" />
-          <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" />
-          <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40" />
-          <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" height="40" />
+          <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="44" />
+          <img src="https://skillicons.dev/icons?i=git&theme=dark" height="44" />
+          <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="44" />
+          <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" height="44" />
         </td>
       </tr>
     </table>
