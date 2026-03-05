@@ -20,15 +20,13 @@
 <div align="center">
 <table border="0" width="80%" cellspacing="10">
 <tr>
-  <!-- Left column: Top languages by commits -->
   <td valign="top" width="50%">
     <p align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JjByteX&theme=transparent" alt="Most Used Languages" />
     </p>
   </td>
-  <!-- Right column: row separators only, no outer border -->
-  <td valign="left" width="50%">
-    <table rules="rows" cellspacing="0" cellpadding="10" style="border-collapse:collapse; width:100%; color:#30363d;">
+  <td valign="middle" width="50%">
+    <table frame="void" rules="rows" cellspacing="0" cellpadding="10" style="border-collapse:collapse; width:100%;">
       <tr>
         <td align="left" width="60"><strong>langs</strong></td>
         <td>
