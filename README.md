@@ -27,12 +27,12 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JjByteX&theme=transparent" alt="Most Used Languages" />
     </p>
   </td>
-  <!-- Right column: Skills / DB / Tools with labels on left -->
-  <td valign="top" width="50%">
-    <table border="0" cellspacing="5">
+  <!-- Right column: flat table with row separators only -->
+  <td valign="middle" width="50%">
+    <table border="1" cellspacing="0" cellpadding="8" style="border-collapse:collapse; border-color:#30363d;">
       <tr>
-        <td align="right"><strong>langs</strong></td>
-        <td>
+        <td align="right" style="border-color:#30363d;"><strong>langs</strong></td>
+        <td style="border-color:#30363d;">
           <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="32" />
           <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="32" />
           <img src="https://skillicons.dev/icons?i=java&theme=dark" height="32" />
@@ -42,17 +42,17 @@
           <img src="https://skillicons.dev/icons?i=css&theme=dark" height="32" />
         </td>
       </tr>
-  <tr>
-        <td align="right"><strong>db</strong></td>
-        <td>
+      <tr>
+        <td align="right" style="border-color:#30363d;"><strong>db</strong></td>
+        <td style="border-color:#30363d;">
           <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="32" />
           <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="32" />
           <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="32" />
         </td>
       </tr>
-    <tr>
-        <td align="right"><strong>tools</strong></td>
-        <td>
+      <tr>
+        <td align="right" style="border-color:#30363d;"><strong>tools</strong></td>
+        <td style="border-color:#30363d;">
           <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="32" />
           <img src="https://skillicons.dev/icons?i=git&theme=dark" height="32" />
           <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="32" />
@@ -63,7 +63,6 @@
   </td>
 </tr>
 </table>
-</div>
 </div>
 
 ```
