@@ -27,7 +27,6 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JjByteX&theme=transparent" alt="Most Used Languages" />
     </p>
   </td>
-
   <!-- Right column: Skills / DB / Tools with labels on left -->
   <td valign="top" width="50%">
     <table border="0" cellspacing="5">
@@ -43,7 +42,6 @@
           <img src="https://skillicons.dev/icons?i=css&theme=dark" height="32" />
         </td>
       </tr>
-
   <tr>
         <td align="right"><strong>db</strong></td>
         <td>
