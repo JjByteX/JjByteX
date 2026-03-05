@@ -18,8 +18,16 @@
   uptime  since 2026
 ```
 
-## Top Languages by Repo
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/repos-per-language?username=JjByteX&theme=dark)
+<p align="center">
+  <!-- Overall GitHub stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JjByteX&theme=github_dark" alt="GitHub Stats" />
+  
+  <!-- Most used languages by commits -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JjByteX&theme=github_dark" alt="Most Used Languages" />
+  
+  <!-- Languages per repo -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JjByteX&theme=github_dark" alt="Repos per Language" />
+</p>
 
 <table>
 <tr>
