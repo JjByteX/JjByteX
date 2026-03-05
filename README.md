@@ -17,6 +17,10 @@
   ai      Claude · Gemini · ChatGPT
   uptime  since 2026
 ```
+
+## Top Languages by Repo
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/repos-per-language?username=JjByteX&theme=dark)
+
 <table>
 <tr>
 <td><code>langs</code></td>
