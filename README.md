@@ -40,7 +40,6 @@
       <img src="https://skillicons.dev/icons?i=css&theme=dark" height="32" />
 
   <br/>
-
    <strong>db</strong><br/>
       <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="32" />
       <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="32" />
