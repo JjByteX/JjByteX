@@ -17,7 +17,7 @@
   ai      Claude · Gemini · ChatGPT
   uptime  since 2026
 ```
-<table border="1" width="100%">
+<table border="0" width="100%">
 <tr>
   <!-- Left column: Top languages by commits -->
   <td valign="top" width="50%">
@@ -29,13 +29,19 @@
   <!-- Right column: Skills, DBs, Tools -->
   <td valign="top" width="50%">
     <p><strong>langs</strong></p>
-    <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,php,html,css&theme=dark" />
+    <p>
+      <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,php,html,css&theme=dark" />
+    </p>
 
     <p><strong>db</strong></p>
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=dark" />
+    <p>
+      <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=dark" />
+    </p>
 
     <p><strong>tools</strong></p>
-    <img src="https://skillicons.dev/icons?i=dotnet,git,vscode,visualstudio&theme=dark" />
+    <p>
+      <img src="https://skillicons.dev/icons?i=dotnet,git,vscode,visualstudio&theme=dark" />
+    </p>
   </td>
 </tr>
 </table>
