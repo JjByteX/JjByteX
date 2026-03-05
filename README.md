@@ -18,7 +18,6 @@
   uptime  since 2026
 ```
 <div align="center">
-<div align="center">
 <table border="0" width="80%" cellspacing="10">
 <tr>
   <!-- Left column: Top languages by commits -->
@@ -27,12 +26,12 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JjByteX&theme=transparent" alt="Most Used Languages" />
     </p>
   </td>
-  <!-- Right column: flat table with row separators only -->
-  <td valign="middle" width="50%">
-    <table border="1" cellspacing="0" cellpadding="8" style="border-collapse:collapse; border-color:#30363d;">
+  <!-- Right column: row separators only, no outer border -->
+  <td valign="left" width="50%">
+    <table rules="rows" cellspacing="0" cellpadding="10" style="border-collapse:collapse; width:100%; color:#30363d;">
       <tr>
-        <td align="right" style="border-color:#30363d;"><strong>langs</strong></td>
-        <td style="border-color:#30363d;">
+        <td align="left" width="60"><strong>langs</strong></td>
+        <td>
           <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="32" />
           <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="32" />
           <img src="https://skillicons.dev/icons?i=java&theme=dark" height="32" />
@@ -43,16 +42,16 @@
         </td>
       </tr>
       <tr>
-        <td align="right" style="border-color:#30363d;"><strong>db</strong></td>
-        <td style="border-color:#30363d;">
+        <td align="left"><strong>db</strong></td>
+        <td>
           <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="32" />
           <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="32" />
           <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="32" />
         </td>
       </tr>
       <tr>
-        <td align="right" style="border-color:#30363d;"><strong>tools</strong></td>
-        <td style="border-color:#30363d;">
+        <td align="left"><strong>tools</strong></td>
+        <td>
           <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="32" />
           <img src="https://skillicons.dev/icons?i=git&theme=dark" height="32" />
           <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="32" />
