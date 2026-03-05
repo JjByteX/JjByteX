@@ -19,11 +19,8 @@
 ```
 
 <p align="left">
-    <!-- Most used languages by commits -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JjByteX&theme=github_dark" alt="Most Used Languages" />
-  
-  <!-- Languages per repo -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JjByteX&theme=github_dark" alt="Repos per Language" />
+  <!-- Most used languages by commits -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JjByteX&theme=transparent" alt="Most Used Languages" />
 </p>
 
 <table>
