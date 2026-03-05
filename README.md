@@ -28,31 +28,29 @@
 
   <!-- Right column: Skills, DBs, Tools -->
   <td valign="top" width="50%">
-    <p><strong>langs</strong></p>
-    <p>
-      <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="32" />
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="32" />
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" height="32" />
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="32" />
-      <img src="https://skillicons.dev/icons?i=php&theme=dark" height="32" />
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" height="32" />
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" height="32" />
-    </p>
+    <strong>langs</strong><br/>
+    <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="32" />
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="32" />
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" height="32" />
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="32" />
+    <img src="https://skillicons.dev/icons?i=php&theme=dark" height="32" />
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" height="32" />
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" height="32" />
 
-  <p><strong>db</strong></p>
-    <p>
-      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="32" />
-      <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="32" />
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="32" />
-    </p>
+   <hr/>
 
-  <p><strong>tools</strong></p>
-    <p>
-      <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="32" />
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" height="32" />
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="32" />
-      <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" height="32" />
-    </p>
+  <strong>db</strong><br/>
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="32" />
+    <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="32" />
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="32" />
+
+  <hr/>
+
+  <strong>tools</strong><br/>
+    <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="32" />
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" height="32" />
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="32" />
+    <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" height="32" />
   </td>
 </tr>
 </table>
